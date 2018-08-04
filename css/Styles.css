@@ -1,0 +1,14 @@
+h2.intro {
+  color: blue;
+  font-family: sans-serif;
+  text-align: left;
+}
+p.intro {
+  color: #490010;
+  font-style: italic;
+  font-size: 20px;
+  font-stretch: expanded;
+}
+img.intro {
+  image-resolution: from-image;
+}
